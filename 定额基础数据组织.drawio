@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T12:22:43.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="bSXNwD_gEnlghanhqgCY" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T12:24:11.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="uhOGTnrV1q63WuournzX" version="15.3.7" type="github">
   <diagram id="z3O7KY8zu0FNePKKX8sA" name="第 1 页">
     <mxGraphModel dx="1782" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="youQ26tibhnT-pj0xiDj-144" value="定额版本ID（向上查找可找到 省、行业等列表）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="youQ26tibhnT-pj0xiDj-142">
+        <mxCell id="youQ26tibhnT-pj0xiDj-144" value="工料机版本ID（向上查找可找到 省、行业等列表）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="youQ26tibhnT-pj0xiDj-142">
           <mxGeometry x="30" width="340" height="30" as="geometry">
             <mxRectangle width="340" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -328,7 +328,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="youQ26tibhnT-pj0xiDj-147" value="工料机版本ID（配比）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="youQ26tibhnT-pj0xiDj-145">
+        <mxCell id="youQ26tibhnT-pj0xiDj-147" value="工料机价格版本" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="youQ26tibhnT-pj0xiDj-145">
           <mxGeometry x="30" width="340" height="30" as="geometry">
             <mxRectangle width="340" height="30" as="alternateBounds" />
           </mxGeometry>
